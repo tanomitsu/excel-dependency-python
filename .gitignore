@@ -24,8 +24,8 @@ sdist/
 var/
 wheels/
 share/python-wheels/
-testcases/
 .idea/
+local_input/
 *.egg-info/
 .installed.cfg
 *.egg
